@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justus-uchendu-mmerem
 - 👀 I’m interested in DevOps engineering
-- 🌱 I’m currently learning DevOps as full course
+- 🌱 I’m currently learning DevOps as a full course
 - 💞️ I’m looking to collaborate on used cases in Infrastructure provisioning, configuration, testing, and deployment to production
 - 📫 How to reach me : mmeremj@gmail.com whatsapp:+2348064538668
 
